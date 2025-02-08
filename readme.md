@@ -2,9 +2,9 @@
 
 A **Binary Search Tree (BST)** is a type of binary tree that follows a specific ordering property.
 
-###all values of the left sub-tree < node->val.
-###all values of right sub-tree > node->val.
-###BST duplicate can't be inserted rather we keep a count of the element.
+### all values of the left sub-tree < node->val.
+### all values of right sub-tree > node->val.
+### BST duplicate can't be inserted rather we keep a count of the element.
 
 ## Rules of a Binary Search Tree
 
