@@ -1,5 +1,5 @@
 # Binary Search Tree (BST) Rules
-### Time Complexity of Searching a value in BST is O(logN)
+### Time Complexity of Searching a value in BST is O(logh)
 ### Time Complexity of Inserting a value in BST is O(h)
 ### Time Complexity of Inserting N values in BST is O(Nh)
 
