@@ -1,5 +1,7 @@
 # Binary Search Tree (BST) Rules
-### Time Complexity of searching a value in BST is O(logN)
+### Time Complexity of Searching a value in BST is O(logN)
+### Time Complexity of Inserting a value in BST is O(h)
+### Time Complexity of Inserting N values in BST is O(Nh)
 
 A **Binary Search Tree (BST)** is a type of binary tree that follows a specific ordering property.
 
