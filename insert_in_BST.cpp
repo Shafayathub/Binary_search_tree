@@ -80,6 +80,7 @@ void insert(Node *&root, int val)
     if (root == NULL)
     {
         root = new Node(val);
+        return;
     }
     if (root->val > val)
     {
